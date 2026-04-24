@@ -90,7 +90,7 @@ export default function Home() {
 
               <h1 className="font-display mt-4 text-4xl leading-[0.94] text-foreground sm:text-5xl">
                 Vincent Bichat
-                <span className="block text-(--accent)">Développeur</span>
+                <span className="block text-(--accent) text-3xl sm:text-4xl">Développeur</span>
               </h1>
 
               <p className="mt-4 max-w-[30ch] text-sm leading-relaxed text-(--muted)">
